@@ -1,0 +1,15 @@
+{
+  "player_runner": "assets/player_runner.glb",
+  "octopus": "assets/octopus.glb",
+  "tunnel_module": "assets/tunnel_module.glb",
+  "exit_gate": "assets/exit_gate.glb",
+  "low_barrier": "assets/low_barrier.glb",
+  "red_electric_barrier": "assets/red_electric_barrier.glb",
+  "blue_electric_barrier_optional": "assets/blue_electric_barrier_optional.glb",
+  "danger_contact": "assets/danger_contact.png",
+  "danger_rear": "assets/danger_rear.png",
+  "escape_progress_track": "assets/escape_progress_track.png",
+  "escape_progress_fill": "assets/escape_progress_fill.png",
+  "rage_unavailable": "assets/rage_unavailable.png",
+  "failure_burst_sheet": "assets/failure_burst_sheet.png"
+}
