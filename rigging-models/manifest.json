@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "addedOn": "2026-11-02",
+  "studentNumber": 5,
+  "sourceStudentNumber": 5,
+  "status": "assets_only_not_integrated",
+  "warning": "게임 조작, 외형 변형, 충돌 및 재시작은 실제 게임에 연결한 후 확인해야 합니다.",
+  "models": [
+    {
+      "file": "princess_game.glb",
+      "bytes": 5062556,
+      "sha256": "6093a29dbc6133fad7301367587d3f3231d3c484a181080502530e0e672da408",
+      "skins": 1,
+      "joints": 28,
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run_InPlace",
+        "Jump",
+        "Dodge_Left",
+        "Dodge_Right",
+        "Land",
+        "Fail"
+      ],
+      "meshOrigin": "Hunyuan-derived; some first-person equipment may include previous supporting geometry",
+      "rigAndMotionOrigin": "Hunyuan and/or Blender supplemental rig; includes Blender-authored animation",
+      "runtimeIntegrated": false
+    }
+  ]
+}
